@@ -89,4 +89,5 @@ ___
 ___
 
 [A. Проверка сбалансированности](https://github.com/BessonovBoris/Algorithms-sem-1/blob/main/lab6/A.cpp)
+
 [B. Делаю я левый поворот](https://github.com/BessonovBoris/Algorithms-sem-1/blob/main/lab6/B.cpp)
